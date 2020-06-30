@@ -9,7 +9,7 @@
   ],
   "license": "CC0-1.0",
   "icon": "assets/angerable-patch/icon.png",
-  "environment": "client",
+  "environment": "*",
   "mixins": [
     "angerable-patch.mixins.json"
   ],
