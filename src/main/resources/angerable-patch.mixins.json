@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "package": "draylar.angerablepatch.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "BeeEntityMixin",
+    "EndermanEntityMixin",
+    "IronGolemEntityMixin",
+    "PolarBearEntityMixin",
+    "WolfEntityMixin",
+    "ZombifiedPiglinEntityMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
