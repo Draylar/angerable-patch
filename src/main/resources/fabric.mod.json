@@ -3,7 +3,7 @@
   "id": "angerable-patch",
   "version": "${version}",
   "name": "Angerable Patch",
-  "description": "Patches console-spam issues with Angerable entities in 1.16.",
+  "description": "Patches console-spam issues with Angerable entities.",
   "authors": [
     "Draylar"
   ],
